@@ -26,12 +26,12 @@ let fw = document.querySelector(".b2");
 let bw = document.querySelector(".b1");
 
 // I use these to choose what needs to change and in what order <3
-let first = ["Xiaomi Black Shark Lucifer T4", "/piktures 2/1.png"];
-let second = ["JBL Tune T510 BT Wireless On-Ear Headphones Black", "/piktures 2/3.png"];
-let third = ["Xiaomi Black Shark Lucifer T10 Black", "/piktures 2/6.png"];
-let fourth = ["Logitech BT Keyboard K380 Grey", "/piktures 2/8.png"];
-let fifth = ["Razer Mouse Pad Sphex V3 L Black", "/piktures 2/9.png"];
-let sixth = ["Logitech c505 HD webcam Black", "/piktures 2/12.png"];
+let first = ["Xiaomi Black Shark Lucifer T4", "piktures 2/1.png"];
+let second = ["JBL Tune T510 BT Wireless On-Ear Headphones Black", "piktures 2/3.png"];
+let third = ["Xiaomi Black Shark Lucifer T10 Black", "piktures 2/6.png"];
+let fourth = ["Logitech BT Keyboard K380 Grey", "piktures 2/8.png"];
+let fifth = ["Razer Mouse Pad Sphex V3 L Black", "piktures 2/9.png"];
+let sixth = ["Logitech c505 HD webcam Black", "piktures 2/12.png"];
 
 // list of all voters for then to later choose
 var voters = [];
